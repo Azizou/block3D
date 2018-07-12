@@ -1,0 +1,25 @@
+{
+  "name": "tetris3d",
+  "version": "1.0.0",
+  "description": "3D tetris, just completing a cube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tetris",
+    "3d",
+    "blocks",
+    "puzzle"
+  ],
+  "author": "iredon",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  },
+  "dependencies": {
+    "jasmine-es6": "^0.4.3"
+  }
+}
